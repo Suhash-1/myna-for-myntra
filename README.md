@@ -1,8 +1,4 @@
-Perfect 👍 Let’s create a **professional README.md** for your Myntra Fashion Recommendation App — the Streamlit + CLIP-based fashion recommendation project you’re building.
 
-Below is a complete `README.md` file you can **copy and paste** directly into your project folder.
-
----
 
 ## 🛍️ Myntra Fashion Recommendation System
 
